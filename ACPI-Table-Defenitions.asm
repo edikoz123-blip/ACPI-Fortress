@@ -4,7 +4,7 @@
 ;					Created by The Ghost In The Matrix
 ;==================================================================================
 
-;before you using it all of it is signatures not the address of them so have fun!
+;before you using it all of it is signatures not the address so have fun!
 
 
 ;==================================================================================
